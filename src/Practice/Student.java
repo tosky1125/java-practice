@@ -1,4 +1,4 @@
-package test;
+package Practice;
 
 public class Student {
     int studentId;
